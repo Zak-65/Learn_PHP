@@ -1,0 +1,2 @@
+langague server pour comunique avec base de donnes: PHP/Python/Java/.Net ;
+serveur d'application c'est lui qui nous execute donne l url api est port : apache/Nginx/Tomcat
